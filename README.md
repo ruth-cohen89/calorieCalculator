@@ -1,4 +1,5 @@
 # CalorieCalculator
+Welcome!
 daily calorie requirement, and body fat calculator by StewVed
 
 Use it directly within GitHub at:
